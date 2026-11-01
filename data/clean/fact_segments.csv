@@ -1,0 +1,493 @@
+Segment,Quarter,Percentage,Quarter_Num,Fiscal_Year
+  Communication,Q1 18,0.125947689,Q1,2018
+  Communication,Q2 18,0.124361506,Q2,2018
+  Communication,Q3 18,0.124407249,Q3,2018
+  Communication,Q4 18,0.12902456,Q4,2018
+  Communication,Q1 19,0.12703873,Q1,2019
+  Communication,Q2 19,0.123,Q2,2019
+  Communication,Q3 19,0.119,Q3,2019
+  Communication,Q4 19,0.135,Q4,2019
+  Communication,Q1 20,0.138,Q1,2020
+  Communication,Q2 20,0.131,Q2,2020
+  Communication,Q3 20,0.13,Q3,2020
+  Communication,Q4 20,0.13,Q4,2020
+  Communication,Q1 21,0.134,Q1,2021
+  Communication,Q2 21,0.126,Q2,2021
+  Communication,Q3 21,0.124,Q3,2021
+  Communication,Q4 21,0.12,Q4,2021
+  Communication,Q1 22,0.122,Q1,2022
+  Communication,Q2 22,0.124,Q2,2022
+  Communication,Q3 22,0.125,Q3,2022
+  Communication,Q4 22,0.128,Q4,2022
+  Communication,Q1 23,0.13,Q1,2023
+  Communication,Q2 23,0.123,Q2,2023
+  Communication,Q3 23,0.123,Q3,2023
+  Communication,Q4 23,0.118,Q4,2023
+  Communication,Q1 24,0.117056553,Q1,2024
+  Communication,Q2 24,0.114,Q2,2024
+  Communication,Q3 24,0.114,Q3,2024
+  Communication,Q4 24,0.123,Q4,2024
+  Communication,Q1 25,0.121,Q1,2025
+  Communication,Q2 25,0.119,Q2,2025
+  Communication,Q3 25,0.112,Q3,2025
+  Communication,Q4 25,0.117,Q4,2025
+  Communication,Q1 26,0.12,Q1,2026
+  Communication,Q2 26,0.121,Q2,2026
+  Communication,Q3 26,0.121,Q3,2026
+  Communication,Q4 26,0.124,Q4,2026
+  Communication,Q1 27,0.12,Q1,2027
+"  Energy, Utilities, Resources and Services",Q1 18,0.11312173,Q1,2018
+"  Energy, Utilities, Resources and Services",Q2 18,0.117177731,Q2,2018
+"  Energy, Utilities, Resources and Services",Q3 18,0.120010705,Q3,2018
+"  Energy, Utilities, Resources and Services",Q4 18,0.120118219,Q4,2018
+"  Energy, Utilities, Resources and Services",Q1 19,0.124109665,Q1,2019
+"  Energy, Utilities, Resources and Services",Q2 19,0.123362594,Q2,2019
+"  Energy, Utilities, Resources and Services",Q3 19,0.128,Q3,2019
+"  Energy, Utilities, Resources and Services",Q4 19,0.127,Q4,2019
+"  Energy, Utilities, Resources and Services",Q1 20,0.13,Q1,2020
+"  Energy, Utilities, Resources and Services",Q2 20,0.131,Q2,2020
+"  Energy, Utilities, Resources and Services",Q3 20,0.128,Q3,2020
+"  Energy, Utilities, Resources and Services",Q4 20,0.129,Q4,2020
+"  Energy, Utilities, Resources and Services",Q1 21,0.128,Q1,2021
+"  Energy, Utilities, Resources and Services",Q2 21,0.123,Q2,2021
+"  Energy, Utilities, Resources and Services",Q3 21,0.125,Q3,2021
+"  Energy, Utilities, Resources and Services",Q4 21,0.123,Q4,2021
+"  Energy, Utilities, Resources and Services",Q1 22,0.121,Q1,2022
+"  Energy, Utilities, Resources and Services",Q2 22,0.118,Q2,2022
+"  Energy, Utilities, Resources and Services",Q3 22,0.117,Q3,2022
+"  Energy, Utilities, Resources and Services",Q4 22,0.12,Q4,2022
+"  Energy, Utilities, Resources and Services",Q1 23,0.124,Q1,2023
+"  Energy, Utilities, Resources and Services",Q2 23,0.123,Q2,2023
+"  Energy, Utilities, Resources and Services",Q3 23,0.13,Q3,2023
+"  Energy, Utilities, Resources and Services",Q4 23,0.129,Q4,2023
+"  Energy, Utilities, Resources and Services",Q1 24,0.128899914,Q1,2024
+"  Energy, Utilities, Resources and Services",Q2 24,0.127,Q2,2024
+"  Energy, Utilities, Resources and Services",Q3 24,0.131,Q3,2024
+"  Energy, Utilities, Resources and Services",Q4 24,0.134,Q4,2024
+"  Energy, Utilities, Resources and Services",Q1 25,0.133,Q1,2025
+"  Energy, Utilities, Resources and Services",Q2 25,0.135,Q2,2025
+"  Energy, Utilities, Resources and Services",Q3 25,0.135,Q3,2025
+"  Energy, Utilities, Resources and Services",Q4 25,0.13,Q4,2025
+"  Energy, Utilities, Resources and Services",Q1 26,0.136,Q1,2026
+"  Energy, Utilities, Resources and Services",Q2 26,0.134,Q2,2026
+"  Energy, Utilities, Resources and Services",Q3 26,0.132,Q3,2026
+"  Energy, Utilities, Resources and Services",Q4 26,0.132,Q4,2026
+"  Energy, Utilities, Resources and Services",Q1 27,0.134,Q1,2027
+  Financial Services,Q1 18,0.329736239,Q1,2018
+  Financial Services,Q2 18,0.331131864,Q2,2018
+  Financial Services,Q3 18,0.328054053,Q3,2018
+  Financial Services,Q4 18,0.325498605,Q4,2018
+  Financial Services,Q1 19,0.317617772,Q1,2019
+  Financial Services,Q2 19,0.322,Q2,2019
+  Financial Services,Q3 19,0.325,Q3,2019
+  Financial Services,Q4 19,0.316,Q4,2019
+  Financial Services,Q1 20,0.314,Q1,2020
+  Financial Services,Q2 20,0.319,Q2,2020
+  Financial Services,Q3 20,0.315,Q3,2020
+  Financial Services,Q4 20,0.313,Q4,2020
+  Financial Services,Q1 21,0.315,Q1,2021
+  Financial Services,Q2 21,0.32,Q2,2021
+  Financial Services,Q3 21,0.331,Q3,2021
+  Financial Services,Q4 21,0.33,Q4,2021
+  Financial Services,Q1 22,0.33,Q1,2022
+  Financial Services,Q2 22,0.323,Q2,2022
+  Financial Services,Q3 22,0.315,Q3,2022
+  Financial Services,Q4 22,0.313,Q4,2022
+  Financial Services,Q1 23,0.306,Q1,2023
+  Financial Services,Q2 23,0.305,Q2,2023
+  Financial Services,Q3 23,0.293,Q3,2023
+  Financial Services,Q4 23,0.289,Q4,2023
+  Financial Services,Q1 24,0.280942008,Q1,2024
+  Financial Services,Q2 24,0.275,Q2,2024
+  Financial Services,Q3 24,0.278,Q3,2024
+  Financial Services,Q4 24,0.264,Q4,2024
+  Financial Services,Q1 25,0.275,Q1,2025
+  Financial Services,Q2 25,0.272,Q2,2025
+  Financial Services,Q3 25,0.278,Q3,2025
+  Financial Services,Q4 25,0.284,Q4,2025
+  Financial Services,Q1 26,0.279,Q1,2026
+  Financial Services,Q2 26,0.277,Q2,2026
+  Financial Services,Q3 26,0.282,Q3,2026
+  Financial Services,Q4 26,0.28,Q4,2026
+  Financial Services,Q1 27,0.279,Q1,2027
+  Hi-Tech,Q1 18,0.073177595,Q1,2018
+  Hi-Tech,Q2 18,0.072077942,Q2,2018
+  Hi-Tech,Q3 18,0.071912408,Q3,2018
+  Hi-Tech,Q4 18,0.073861552,Q4,2018
+  Hi-Tech,Q1 19,0.074355845,Q1,2019
+  Hi-Tech,Q2 19,0.075,Q2,2019
+  Hi-Tech,Q3 19,0.073,Q3,2019
+  Hi-Tech,Q4 19,0.077,Q4,2019
+  Hi-Tech,Q1 20,0.077,Q1,2020
+  Hi-Tech,Q2 20,0.076,Q2,2020
+  Hi-Tech,Q3 20,0.076,Q3,2020
+  Hi-Tech,Q4 20,0.079,Q4,2020
+  Hi-Tech,Q1 21,0.087,Q1,2021
+  Hi-Tech,Q2 21,0.091,Q2,2021
+  Hi-Tech,Q3 21,0.082,Q3,2021
+  Hi-Tech,Q4 21,0.081,Q4,2021
+  Hi-Tech,Q1 22,0.083,Q1,2022
+  Hi-Tech,Q2 22,0.085,Q2,2022
+  Hi-Tech,Q3 22,0.081,Q3,2022
+  Hi-Tech,Q4 22,0.082,Q4,2022
+  Hi-Tech,Q1 23,0.082,Q1,2023
+  Hi-Tech,Q2 23,0.082,Q2,2023
+  Hi-Tech,Q3 23,0.081,Q3,2023
+  Hi-Tech,Q4 23,0.08,Q4,2023
+  Hi-Tech,Q1 24,0.080536044,Q1,2024
+  Hi-Tech,Q2 24,0.078,Q2,2024
+  Hi-Tech,Q3 24,0.077,Q3,2024
+  Hi-Tech,Q4 24,0.087,Q4,2024
+  Hi-Tech,Q1 25,0.08,Q1,2025
+  Hi-Tech,Q2 25,0.08,Q2,2025
+  Hi-Tech,Q3 25,0.079,Q3,2025
+  Hi-Tech,Q4 25,0.083,Q4,2025
+  Hi-Tech,Q1 26,0.078,Q1,2026
+  Hi-Tech,Q2 26,0.083,Q2,2026
+  Hi-Tech,Q3 26,0.074,Q3,2026
+  Hi-Tech,Q4 26,0.077,Q4,2026
+  Hi-Tech,Q1 27,0.077,Q1,2027
+  Life Sciences,Q1 18,0.065927213,Q1,2018
+  Life Sciences,Q2 18,0.067785507,Q2,2018
+  Life Sciences,Q3 18,0.065617017,Q3,2018
+  Life Sciences,Q4 18,0.067092916,Q4,2018
+  Life Sciences,Q1 19,0.065852191,Q1,2019
+  Life Sciences,Q2 19,0.064,Q2,2019
+  Life Sciences,Q3 19,0.062,Q3,2019
+  Life Sciences,Q4 19,0.06,Q4,2019
+  Life Sciences,Q1 20,0.061,Q1,2020
+  Life Sciences,Q2 20,0.064,Q2,2020
+  Life Sciences,Q3 20,0.067,Q3,2020
+  Life Sciences,Q4 20,0.064,Q4,2020
+  Life Sciences,Q1 21,0.067,Q1,2021
+  Life Sciences,Q2 21,0.068,Q2,2021
+  Life Sciences,Q3 21,0.071,Q3,2021
+  Life Sciences,Q4 21,0.068,Q4,2021
+  Life Sciences,Q1 22,0.068,Q1,2022
+  Life Sciences,Q2 22,0.071,Q2,2022
+  Life Sciences,Q3 22,0.075,Q3,2022
+  Life Sciences,Q4 22,0.066,Q4,2022
+  Life Sciences,Q1 23,0.065,Q1,2023
+  Life Sciences,Q2 23,0.067,Q2,2023
+  Life Sciences,Q3 23,0.07,Q3,2023
+  Life Sciences,Q4 23,0.072,Q4,2023
+  Life Sciences,Q1 24,0.072228758,Q1,2024
+  Life Sciences,Q2 24,0.078,Q2,2024
+  Life Sciences,Q3 24,0.076,Q3,2024
+  Life Sciences,Q4 24,0.073,Q4,2024
+  Life Sciences,Q1 25,0.073,Q1,2025
+  Life Sciences,Q2 25,0.073,Q2,2025
+  Life Sciences,Q3 25,0.076,Q3,2025
+  Life Sciences,Q4 25,0.068,Q4,2025
+  Life Sciences,Q1 26,0.065,Q1,2026
+  Life Sciences,Q2 26,0.064,Q2,2026
+  Life Sciences,Q3 26,0.072,Q3,2026
+  Life Sciences,Q4 26,0.073,Q4,2026
+  Life Sciences,Q1 27,0.08,Q1,2027
+  Manufacturing,Q1 18,0.093003084,Q1,2018
+  Manufacturing,Q2 18,0.093747267,Q2,2018
+  Manufacturing,Q3 18,0.09560058,Q3,2018
+  Manufacturing,Q4 18,0.095919897,Q4,2018
+  Manufacturing,Q1 19,0.096012982,Q1,2019
+  Manufacturing,Q2 19,0.096,Q2,2019
+  Manufacturing,Q3 19,0.101,Q3,2019
+  Manufacturing,Q4 19,0.1,Q4,2019
+  Manufacturing,Q1 20,0.096,Q1,2020
+  Manufacturing,Q2 20,0.101,Q2,2020
+  Manufacturing,Q3 20,0.103,Q3,2020
+  Manufacturing,Q4 20,0.101,Q4,2020
+  Manufacturing,Q1 21,0.095,Q1,2021
+  Manufacturing,Q2 21,0.091,Q2,2021
+  Manufacturing,Q3 21,0.093,Q3,2021
+  Manufacturing,Q4 21,0.096,Q4,2021
+  Manufacturing,Q1 22,0.097,Q1,2022
+  Manufacturing,Q2 22,0.109,Q2,2022
+  Manufacturing,Q3 22,0.113,Q3,2022
+  Manufacturing,Q4 22,0.118,Q4,2022
+  Manufacturing,Q1 23,0.121,Q1,2023
+  Manufacturing,Q2 23,0.128,Q2,2023
+  Manufacturing,Q3 23,0.133,Q3,2023
+  Manufacturing,Q4 23,0.135,Q4,2023
+  Manufacturing,Q1 24,0.141260343,Q1,2024
+  Manufacturing,Q2 24,0.143,Q2,2024
+  Manufacturing,Q3 24,0.149,Q3,2024
+  Manufacturing,Q4 24,0.147,Q4,2024
+  Manufacturing,Q1 25,0.147,Q1,2025
+  Manufacturing,Q2 25,0.157,Q2,2025
+  Manufacturing,Q3 25,0.155,Q3,2025
+  Manufacturing,Q4 25,0.159,Q4,2025
+  Manufacturing,Q1 26,0.161,Q1,2026
+  Manufacturing,Q2 26,0.165,Q2,2026
+  Manufacturing,Q3 26,0.167,Q3,2026
+  Manufacturing,Q4 26,0.159,Q4,2026
+  Manufacturing,Q1 27,0.159,Q1,2027
+  Others,Q1 18,0.036624875,Q1,2018
+  Others,Q2 18,0.034125064,Q2,2018
+  Others,Q3 18,0.032063049,Q3,2018
+  Others,Q4 18,0.029259136,Q4,2018
+  Others,Q1 19,0.029372553,Q1,2019
+  Others,Q2 19,0.029,Q2,2019
+  Others,Q3 19,0.028,Q3,2019
+  Others,Q4 19,0.026,Q4,2019
+  Others,Q1 20,0.026,Q1,2020
+  Others,Q2 20,0.026,Q2,2020
+  Others,Q3 20,0.028,Q3,2020
+  Others,Q4 20,0.029,Q4,2020
+  Others,Q1 21,0.031,Q1,2021
+  Others,Q2 21,0.032,Q2,2021
+  Others,Q3 21,0.027,Q3,2021
+  Others,Q4 21,0.034,Q4,2021
+  Others,Q1 22,0.029,Q1,2022
+  Others,Q2 22,0.024,Q2,2022
+  Others,Q3 22,0.029,Q3,2022
+  Others,Q4 22,0.03,Q4,2022
+  Others,Q1 23,0.027,Q1,2023
+  Others,Q2 23,0.03,Q2,2023
+  Others,Q3 23,0.027,Q3,2023
+  Others,Q4 23,0.029,Q4,2023
+  Others,Q1 24,0.033717525,Q1,2024
+  Others,Q2 24,0.033,Q2,2024
+  Others,Q3 24,0.029,Q3,2024
+  Others,Q4 24,0.029,Q4,2024
+  Others,Q1 25,0.033,Q1,2025
+  Others,Q2 25,0.031,Q2,2025
+  Others,Q3 25,0.027,Q3,2025
+  Others,Q4 25,0.026,Q4,2025
+  Others,Q1 26,0.027,Q1,2026
+  Others,Q2 26,0.029,Q2,2026
+  Others,Q3 26,0.024,Q3,2026
+  Others,Q4 26,0.027,Q4,2026
+  Others,Q1 27,0.023,Q1,2027
+  Retail,Q1 18,0.162461575,Q1,2018
+  Retail,Q2 18,0.159593119,Q2,2018
+  Retail,Q3 18,0.16233494,Q3,2018
+  Retail,Q4 18,0.159225116,Q4,2018
+  Retail,Q1 19,0.165640262,Q1,2019
+  Retail,Q2 19,0.168,Q2,2019
+  Retail,Q3 19,0.164,Q3,2019
+  Retail,Q4 19,0.159,Q4,2019
+  Retail,Q1 20,0.158,Q1,2020
+  Retail,Q2 20,0.152,Q2,2020
+  Retail,Q3 20,0.153,Q3,2020
+  Retail,Q4 20,0.155,Q4,2020
+  Retail,Q1 21,0.143,Q1,2021
+  Retail,Q2 21,0.149,Q2,2021
+  Retail,Q3 21,0.147,Q3,2021
+  Retail,Q4 21,0.148,Q4,2021
+  Retail,Q1 22,0.15,Q1,2022
+  Retail,Q2 22,0.146,Q2,2022
+  Retail,Q3 22,0.145,Q3,2022
+  Retail,Q4 22,0.143,Q4,2022
+  Retail,Q1 23,0.145,Q1,2023
+  Retail,Q2 23,0.142,Q2,2023
+  Retail,Q3 23,0.143,Q3,2023
+  Retail,Q4 23,0.148,Q4,2023
+  Retail,Q1 24,0.145358855,Q1,2024
+  Retail,Q2 24,0.152,Q2,2024
+  Retail,Q3 24,0.146,Q3,2024
+  Retail,Q4 24,0.143,Q4,2024
+  Retail,Q1 25,0.138,Q1,2025
+  Retail,Q2 25,0.133,Q2,2025
+  Retail,Q3 25,0.138,Q3,2025
+  Retail,Q4 25,0.133,Q4,2025
+  Retail,Q1 26,0.134,Q1,2026
+  Retail,Q2 26,0.127,Q2,2026
+  Retail,Q3 26,0.128,Q3,2026
+  Retail,Q4 26,0.128,Q4,2026
+  Retail,Q1 27,0.128,Q1,2027
+Europe,Q1 15,0.245,Q1,2015
+Europe,Q2 15,0.247,Q2,2015
+Europe,Q3 15,0.24,Q3,2015
+Europe,Q4 15,0.231,Q4,2015
+Europe,Q1 16,0.224,Q1,2016
+Europe,Q2 16,0.229,Q2,2016
+Europe,Q3 16,0.232,Q3,2016
+Europe,Q4 16,0.234,Q4,2016
+Europe,Q1 17,0.23,Q1,2017
+Europe,Q2 17,0.225,Q2,2017
+Europe,Q3 17,0.222,Q3,2017
+Europe,Q4 17,0.221,Q4,2017
+Europe,Q1 18,0.224,Q1,2018
+Europe,Q2 18,0.232,Q2,2018
+Europe,Q3 18,0.244,Q3,2018
+Europe,Q4 18,0.248,Q4,2018
+Europe,Q1 19,0.243,Q1,2019
+Europe,Q2 19,0.24,Q2,2019
+Europe,Q3 19,0.242,Q3,2019
+Europe,Q4 19,0.24,Q4,2019
+Europe,Q1 20,0.236,Q1,2020
+Europe,Q2 20,0.241,Q2,2020
+Europe,Q3 20,0.244,Q3,2020
+Europe,Q4 20,0.244,Q4,2020
+Europe,Q1 21,0.24,Q1,2021
+Europe,Q2 21,0.243,Q2,2021
+Europe,Q3 21,0.24,Q3,2021
+Europe,Q4 21,0.244,Q4,2021
+Europe,Q1 22,0.242,Q1,2022
+Europe,Q2 22,0.248,Q2,2022
+Europe,Q3 22,0.249,Q3,2022
+Europe,Q4 22,0.252,Q4,2022
+Europe,Q1 23,0.25,Q1,2023
+Europe,Q2 23,0.247,Q2,2023
+Europe,Q3 23,0.258,Q3,2023
+Europe,Q4 23,0.27,Q4,2023
+Europe,Q1 24,0.268,Q1,2024
+Europe,Q2 24,0.265,Q2,2024
+Europe,Q3 24,0.282,Q3,2024
+Europe,Q4 24,0.286,Q4,2024
+Europe,Q1 25,0.284,Q1,2025
+Europe,Q2 25,0.298,Q2,2025
+Europe,Q3 25,0.298,Q3,2025
+Europe,Q4 25,0.312,Q4,2025
+Europe,Q1 26,0.315,Q1,2026
+Europe,Q2 26,0.317,Q2,2026
+Europe,Q3 26,0.327,Q3,2026
+Europe,Q4 26,0.326,Q4,2026
+Europe,Q1 27,0.321,Q1,2027
+India,Q1 15,0.024,Q1,2015
+India,Q2 15,0.022,Q2,2015
+India,Q3 15,0.025,Q3,2015
+India,Q4 15,0.025,Q4,2015
+India,Q1 16,0.022,Q1,2016
+India,Q2 16,0.0234,Q2,2016
+India,Q3 16,0.028,Q3,2016
+India,Q4 16,0.03,Q4,2016
+India,Q1 17,0.027,Q1,2017
+India,Q2 17,0.034,Q2,2017
+India,Q3 17,0.034,Q3,2017
+India,Q4 17,0.032,Q4,2017
+India,Q1 18,0.036,Q1,2018
+India,Q2 18,0.033,Q2,2018
+India,Q3 18,0.03,Q3,2018
+India,Q4 18,0.028,Q4,2018
+India,Q1 19,0.026,Q1,2019
+India,Q2 19,0.025,Q2,2019
+India,Q3 19,0.026,Q3,2019
+India,Q4 19,0.023,Q4,2019
+India,Q1 20,0.023,Q1,2020
+India,Q2 20,0.027,Q2,2020
+India,Q3 20,0.028,Q3,2020
+India,Q4 20,0.026,Q4,2020
+India,Q1 21,0.029,Q1,2021
+India,Q2 21,0.03,Q2,2021
+India,Q3 21,0.026,Q3,2021
+India,Q4 21,0.03,Q4,2021
+India,Q1 22,0.029,Q1,2022
+India,Q2 22,0.026,Q2,2022
+India,Q3 22,0.03,Q3,2022
+India,Q4 22,0.032,Q4,2022
+India,Q1 23,0.026,Q1,2023
+India,Q2 23,0.029,Q2,2023
+India,Q3 23,0.024,Q3,2023
+India,Q4 23,0.026,Q4,2023
+India,Q1 24,0.027,Q1,2024
+India,Q2 24,0.028,Q2,2024
+India,Q3 24,0.024,Q3,2024
+India,Q4 24,0.022,Q4,2024
+India,Q1 25,0.031,Q1,2025
+India,Q2 25,0.031,Q2,2025
+India,Q3 25,0.031,Q3,2025
+India,Q4 25,0.029,Q4,2025
+India,Q1 26,0.029,Q1,2026
+India,Q2 26,0.031,Q2,2026
+India,Q3 26,0.028,Q3,2026
+India,Q4 26,0.026,Q4,2026
+India,Q1 27,0.025,Q1,2027
+North America,Q1 15,0.608,Q1,2015
+North America,Q2 15,0.608,Q2,2015
+North America,Q3 15,0.616,Q3,2015
+North America,Q4 15,0.628,Q4,2015
+North America,Q1 16,0.632,Q1,2016
+North America,Q2 16,0.633,Q2,2016
+North America,Q3 16,0.625,Q3,2016
+North America,Q4 16,0.619,Q4,2016
+North America,Q1 17,0.62,Q1,2017
+North America,Q2 17,0.615,Q2,2017
+North America,Q3 17,0.62,Q3,2017
+North America,Q4 17,0.623,Q4,2017
+North America,Q1 18,0.611,Q1,2018
+North America,Q2 18,0.606,Q2,2018
+North America,Q3 18,0.604,Q3,2018
+North America,Q4 18,0.594,Q4,2018
+North America,Q1 19,0.6,Q1,2019
+North America,Q2 19,0.603,Q2,2019
+North America,Q3 19,0.604,Q3,2019
+North America,Q4 19,0.612,Q4,2019
+North America,Q1 20,0.616,Q1,2020
+North America,Q2 20,0.614,Q2,2020
+North America,Q3 20,0.613,Q3,2020
+North America,Q4 20,0.616,Q4,2020
+North America,Q1 21,0.615,Q1,2021
+North America,Q2 21,0.607,Q2,2021
+North America,Q3 21,0.616,Q3,2021
+North America,Q4 21,0.616,Q4,2021
+North America,Q1 22,0.617,Q1,2022
+North America,Q2 22,0.619,Q2,2022
+North America,Q3 22,0.618,Q3,2022
+North America,Q4 22,0.614,Q4,2022
+North America,Q1 23,0.618,Q1,2023
+North America,Q2 23,0.625,Q2,2023
+North America,Q3 23,0.62,Q3,2023
+North America,Q4 23,0.61,Q4,2023
+North America,Q1 24,0.608,Q1,2024
+North America,Q2 24,0.611,Q2,2024
+North America,Q3 24,0.59,Q3,2024
+North America,Q4 24,0.596,Q4,2024
+North America,Q1 25,0.589,Q1,2025
+North America,Q2 25,0.574,Q2,2025
+North America,Q3 25,0.584,Q3,2025
+North America,Q4 25,0.571,Q4,2025
+North America,Q1 26,0.565,Q1,2026
+North America,Q2 26,0.563,Q2,2026
+North America,Q3 26,0.559,Q3,2026
+North America,Q4 26,0.557,Q4,2026
+North America,Q1 27,0.564,Q1,2027
+ROW,Q1 15,0.123,Q1,2015
+ROW,Q2 15,0.123,Q2,2015
+ROW,Q3 15,0.119,Q3,2015
+ROW,Q4 15,0.116,Q4,2015
+ROW,Q1 16,0.122,Q1,2016
+ROW,Q2 16,0.115,Q2,2016
+ROW,Q3 16,0.115,Q3,2016
+ROW,Q4 16,0.117,Q4,2016
+ROW,Q1 17,0.123,Q1,2017
+ROW,Q2 17,0.126,Q2,2017
+ROW,Q3 17,0.124,Q3,2017
+ROW,Q4 17,0.124,Q4,2017
+ROW,Q1 18,0.129,Q1,2018
+ROW,Q2 18,0.129,Q2,2018
+ROW,Q3 18,0.122,Q3,2018
+ROW,Q4 18,0.13,Q4,2018
+ROW,Q1 19,0.131,Q1,2019
+ROW,Q2 19,0.132,Q2,2019
+ROW,Q3 19,0.128,Q3,2019
+ROW,Q4 19,0.125,Q4,2019
+ROW,Q1 20,0.125,Q1,2020
+ROW,Q2 20,0.118,Q2,2020
+ROW,Q3 20,0.115,Q3,2020
+ROW,Q4 20,0.114,Q4,2020
+ROW,Q1 21,0.116,Q1,2021
+ROW,Q2 21,0.12,Q2,2021
+ROW,Q3 21,0.118,Q3,2021
+ROW,Q4 21,0.11,Q4,2021
+ROW,Q1 22,0.112,Q1,2022
+ROW,Q2 22,0.107,Q2,2022
+ROW,Q3 22,0.103,Q3,2022
+ROW,Q4 22,0.102,Q4,2022
+ROW,Q1 23,0.106,Q1,2023
+ROW,Q2 23,0.099,Q2,2023
+ROW,Q3 23,0.098,Q3,2023
+ROW,Q4 23,0.094,Q4,2023
+ROW,Q1 24,0.097,Q1,2024
+ROW,Q2 24,0.096,Q2,2024
+ROW,Q3 24,0.104,Q3,2024
+ROW,Q4 24,0.096,Q4,2024
+ROW,Q1 25,0.096,Q1,2025
+ROW,Q2 25,0.097,Q2,2025
+ROW,Q3 25,0.087,Q3,2025
+ROW,Q4 25,0.088,Q4,2025
+ROW,Q1 26,0.091,Q1,2026
+ROW,Q2 26,0.089,Q2,2026
+ROW,Q3 26,0.086,Q3,2026
+ROW,Q4 26,0.091,Q4,2026
+ROW,Q1 27,0.09,Q1,2027
