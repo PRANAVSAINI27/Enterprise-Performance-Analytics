@@ -20,12 +20,3 @@ Raw corporate `.xls` files were unpivoted and cleansed into four core SQL fact t
 * `fact_financials` | `fact_workforce` | `fact_segments` | `fact_clients`
 
 Custom SQL Views (e.g., `vw_workforce_metrics`) sit on top of these tables to handle dynamic date generation for Power BI's Time Intelligence and enforce strict decimal preservation.
-
-## 🚀 Quick Start
-1. **Clone Repo:** 
-   ```bash
-   git clone https://github.com/yourusername/it-services-performance-analytics.git
-   ```
-2. **Setup Database:** Execute the SQL scripts in the `sql_scripts/` folder to build tables and views.
-3. **Load Data:** Import the clean `.csv` files from the `data/clean/` folder into your SQL database.
-4. **Run Dashboard:** Open the `.pbix` file. Go to *Transform Data > Data Source Settings*, point it to your local SQL server, and click Refresh.
